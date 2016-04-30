@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\bin\Debug\Sales_Invoice.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\bin\Debug\Sales_Invoice.exe
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\bin\Debug\Sales_Invoice.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\obj\Debug\Sales_Invoice.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\obj\Debug\Sales_Invoice.Form1.resources
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\obj\Debug\Sales_Invoice.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\obj\Debug\Sales_Invoice.csproj.GenerateResource.Cache
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\obj\Debug\Sales_Invoice.exe
+c:\users\jon\documents\visual studio 2015\Projects\Sales_Invoice\Sales_Invoice\obj\Debug\Sales_Invoice.pdb
